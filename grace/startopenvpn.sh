@@ -7,7 +7,7 @@
 #
 
 #The VPN Server IP
-vpnserv='10.8.0.1'
+vpnserv='107.160.184.130'
 
 #The config path of openvpn
 config='/jffs/openvpn/vpn1.ovpn'
